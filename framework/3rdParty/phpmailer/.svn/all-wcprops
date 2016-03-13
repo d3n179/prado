@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mywim/!svn/ver/713/trunk/framework_3.1.7/3rdParty/phpmailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mywim/!svn/ver/713/trunk/framework_3.1.7/3rdParty/phpmailer/LICENSE
+END
+class_phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mywim/!svn/ver/713/trunk/framework_3.1.7/3rdParty/phpmailer/class_phpmailer.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mywim/!svn/ver/713/trunk/framework_3.1.7/3rdParty/phpmailer/README
+END
+class_smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mywim/!svn/ver/713/trunk/framework_3.1.7/3rdParty/phpmailer/class_smtp.php
+END
